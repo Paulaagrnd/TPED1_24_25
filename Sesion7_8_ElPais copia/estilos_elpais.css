@@ -1,0 +1,136 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#bannerfijo{
+    background-color: rgb(25, 52, 68);
+}
+
+#bannerfijo li{
+    display: inline-block;
+}
+
+#elpais{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 150%;
+    padding-right: 10%;
+}
+
+#thinkbig{
+    color: white;
+}
+
+#telefonica{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(206, 231, 232);
+}
+
+#letra{
+    font-size: 600%;
+    font-weight:bold;
+    color: black;
+    float: left; /* Flota a la izquierda */
+    line-height: 1;  /* Ajusta la altura de línea */
+    margin-right: 0.1em
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+article{
+    width: 50%;
+    /*background-color: bisque;*/
+    margin-right: auto;
+    margin-left: auto;
+    color: dimgray;
+    line-height: 1.7;
+}
+
+
+h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 320%;
+    padding-bottom: 5%;
+    font-weight: normal;
+    color: black;
+    line-height: 1.2;
+}
+
+
+
+h2{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 14px;
+    padding-bottom: 6%;
+    font-weight: normal; /* Quita la negrita */
+    line-height: 1.2;
+ }
+    
+#segundop{
+    padding-top: 5%;
+}
+
+h3{
+    font-weight: bolder;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-size: 18px;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+
+li{
+    padding-top: 4%;
+}
+
+.portada{
+        display: block; /* Cambia a block para que margin funcione */
+        margin: 0 auto; /* Centra horizontalmente */
+        width: 50%; /* O el ancho que desees */
+}
+
+.resaltado{
+    color:black;
+    font-weight: bold;
+}
+
+
+img{
+    display: block; /* Cambia a block para que margin funcione */
+        margin: 0 auto; /* Centra horizontalmente */
+        width: 100%; /* O el ancho que desees */
+        padding-top: 8%;
+        padding-bottom:8%;
+}
+
+#página{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#páginados{
+    color: black;
+    text-decoration: underline;
+    font-weight:bold;
+    font-style: italic;
+}
+
+#banner{
+    width: 50%;
+    height: auto;  /* Mantiene la proporción de la imagen */
+}
