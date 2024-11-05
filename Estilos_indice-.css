@@ -1,0 +1,31 @@
+
+h1{
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 2%;
+    padding-bottom: 0.5%;
+    color: hotpink;
+
+}
+
+#primero{
+    text-decoration: none;
+    color: black;
+}
+
+#segundo{
+    text-decoration: none;
+    color: black;
+}
+
+#tercero{
+    text-decoration: none;
+    color: black;
+}
+
+ol{
+   list-style: none;
+   font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+
+}
