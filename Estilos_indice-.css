@@ -2,15 +2,40 @@
 h1{
     font-size: 150%;
     font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
     padding-left: 2%;
     padding-bottom: 0.5%;
+    padding-top: 5%;
     color: hotpink;
 
+    text-decoration: underline; 
+    text-underline-offset: 5px;
+    text-decoration-color: rgb(244, 144, 194); 
+    text-decoration-thickness: 2px;
+
 }
+
+
+ol{
+    padding-top: 3%;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+
+}
+
+
+ol li{
+    padding-left: 20%;
+    padding-top: 2%;
+}
+
 
 #primero{
     text-decoration: none;
     color: black;
+  
 }
 
 #segundo{
@@ -23,9 +48,7 @@ h1{
     color: black;
 }
 
-ol{
-   list-style: none;
-   font-family: Arial, Helvetica, sans-serif;
-  line-height: 2;
-
+#cuarto{
+    text-decoration: none;
+    color: black;
 }
