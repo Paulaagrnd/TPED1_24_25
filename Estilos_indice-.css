@@ -65,37 +65,8 @@ ul li:hover{
  
 }
 
-
-#primero{
+ul li a {
     text-decoration: none;
     color: black;
-  
-}
 
-
-#segundo{
-    text-decoration: none;
-    color: black;
-}
-
-
-#tercero{
-    text-decoration: none;
-    color: black;
-}
-
-
-#cuarto{
-    text-decoration: none;
-    color: black;
-}
-
-#quinto{
-    text-decoration: none;
-    color: black;
-}
-
-#sexto{
-    text-decoration: none;
-    color: black;
 }
