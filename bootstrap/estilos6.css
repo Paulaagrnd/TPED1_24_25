@@ -1,0 +1,24 @@
+div {
+    box-sizing: border-box; /* para que los bordes, paddings estén en la anchura (determinada por col) */
+}
+
+
+
+
+.centro{
+    background-color: blueviolet;
+    height: 60vh;
+
+}
+
+
+.lateralizq{
+    background-color: hotpink;
+    height: 60vh;
+
+}
+
+.derecha{
+    background-color: darkorange;
+    height:80vh;
+}

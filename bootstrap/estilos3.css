@@ -1,0 +1,40 @@
+div {
+    box-sizing: border-box; /* para que los bordes, paddings estén en la anchura (determinada por col) */
+}
+
+nav {
+    background-color: aqua;
+}
+
+.izquierda{
+  background-color: cornflowerblue;
+  height: 80vh;
+  
+ 
+} 
+
+.derecha{
+  background-color: hotpink;
+  height: 0vh;
+  
+}
+.sup{
+    background-color: cadetblue;
+    height: 20vh;
+}
+
+.inf{
+    background-color:aquamarine;
+    height: 60vh;
+}
+
+
+.pie{
+    background-color: hotpink;
+    height: 20vh;
+}
+
+
+
+@media (min-width: 768px) {
+    }
