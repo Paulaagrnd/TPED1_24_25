@@ -1,0 +1,87 @@
+body{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+#inicio{
+    background-image: url("Imgs/fondo.jpg");
+    height: 500px;
+    padding-top: 350px;
+    font-size: 200%;
+}
+
+#listainicio {
+    list-style-type: none;
+    padding-left: 550px;
+}
+
+#listainicio li{
+    display: inline-block;
+    padding: 10px;
+}
+
+#centro{
+    height: 500px;
+    background-color: rgb(252, 223, 249);
+}
+
+#pie{
+    background-color: black;
+    opacity: 0.6;
+}
+
+
+h1{
+    color: hotpink;
+}
+
+#ppa{
+    color: rgb(226, 126, 226);
+    font-family: sans-serif;
+    font-size: 150%;
+}
+
+#p1{
+    color: black;
+    font-family: sans-serif;
+}
+
+#p2{
+    color: black;
+    font-family: sans-serif;
+}
+
+#milista{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 150%;
+    list-style-type: none;
+    padding-right:45%;
+    opacity: 0.6;
+    background-position:left;
+}
+#aningunsitio:hover{
+    color:blueviolet;
+    text-decoration: line-through;
+}
+
+#emergente:hover{
+    color: aliceblue;
+    text-decoration:underline;
+}
+
+#AlgunSitio:hover{
+    color: aliceblue;
+    text-decoration:underline;
+}
+
+#archivolocal:hover{
+    color: aliceblue;
+    text-decoration:underline;
+}
+
+#aningunsitiodos:hover{
+    color:blueviolet;
+    text-decoration: line-through;
+}
