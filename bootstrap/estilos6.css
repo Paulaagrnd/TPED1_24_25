@@ -18,7 +18,23 @@ div {
 
 }
 
+.lateral{
+    background-color: rgb(43, 226, 52);
+}
+
 .derecha{
     background-color: darkorange;
-    height:80vh;
+    height:100vh;
+}
+
+.sup{
+    height: 20vh;
+    background-color: aquamarine;
+
+}
+
+.inf{
+    height: 20vh;
+    background-color: blue;
+
 }
