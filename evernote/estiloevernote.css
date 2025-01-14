@@ -1,0 +1,112 @@
+div {
+    box-sizing: border-box; /* para que los bordes, paddings estén en la anchura (determinada por col) */
+}
+
+#cabeza{
+    padding-bottom: 6%;
+
+}
+
+
+#logo{
+    padding-top: 5%;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(185, 230, 139);
+    font-weight: normal;
+    font-size: 80%;
+    padding-left: 27%;
+}
+
+ul li{
+    list-style: none;
+
+}
+
+#h1{
+    
+    color: rgb(109, 154, 158);
+    font-size: 170%;
+    
+}
+
+#h2{
+    font-size: small;
+}
+
+#mac{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+#get{
+    padding-left: 7% ;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+
+}
+
+#h21{
+    padding-top: 5%;
+    padding-left: 8%;
+    font-size:small;
+    color: rgb(185, 230, 139);
+}
+
+
+h3{
+    font-size: small;
+   
+}
+
+#menuCentral a{
+    text-decoration: none;
+    color: rgb(185, 230, 139);
+    font-weight: normal;
+    font-size: 80%;
+}
+
+#menuCentral{
+    color: rgb(185, 230, 139);
+    padding-left: 18%;
+    padding-top: 7%;
+}
+
+#containerflex{
+   /* background-color: cornflowerblue; */
+    display: flex;
+    flex-flow:row wrap ;
+    justify-content: space-around;
+    width: 100%;
+    padding-top: 6%;
+
+}
+
+.texto{
+    padding-top: 3%;
+    font-size: 90%;
+}
+
+p{
+    font-size: small;
+}
+
+#h5{
+    font-weight: bolder;
+}
+
+
+#h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    
+}
+
+#footer{
+    padding-top: 8%;
+
+}
